@@ -1,6 +1,8 @@
 railscamp-germany-2014
 ======================
 
+Raiscamp website:  http://2014.railscamp.de/
+
 Go to the [issues](https://github.com/railscamp/railscamp-germany-2014/issues) to particiapte
 
 ### Deployment Instructions
