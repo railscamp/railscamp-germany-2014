@@ -15,7 +15,7 @@ Meet old and new friends, learn, teach, exchange ideas and experiences, and have
 The Rails Girls will also be present at the event, so it will be a great fit for people that are new to Rails, as well.
 
 The venue will be Abenteuerhallen Kalk. It's the same awesome indoor climbing/skating place like last year, providing space for lots of techie (talks, workshops) and non-techie (climbing, skating, soccer, basketball) activities.
-You can even set up tent in the the neighboring skate hall, so you don't have to leave
+You can even set up camp in the the neighboring skate hall, so you don't have to leave
 during the whole weekend.
 
 ![Venue, Main Hall](/img/venue_main-hall_1.png)
@@ -66,7 +66,7 @@ incredibly excited, and we hope to see you there!
 with one of the many tasks on site (e.g. manning the reception stand for an
 hour), helping organize something upfront – whatever you like.
 
-[^foot-2]: Except being racist, sexist, or any other kind of mean, of course. Take a look at our [Code of Conduct](http://2014.railscamp.de/coc/). -->
+[^foot-2]: Except being racist, sexist, or any other kind of being mean, of course. Take a look at our [Code of Conduct](http://2014.railscamp.de/coc/). -->
 
 
 <!-- TEXT FROM 2013:
