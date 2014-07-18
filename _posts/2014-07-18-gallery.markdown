@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "The Techie Awesome RailsCamp Germany 2013 Picture Show"
+date:   2014-07-18 14:00:00
+categories: news
+---
+
+**The Techie Awesome RailsCamp Germany 2013 Picture Show**
+
+We've collected some nice pictures from last year to give you an impression of how awesome it was!
+
+![Play of colours](/img/light.jpg)
+> Play of colours
+![Coffee and kicker](/img/kicker-coffee.jpg)
+> Coffee and kicker
+![Kicker match](/img/kicker-match.jpg)
+> Kicker match
+![Conference](/img/conference.jpg)
+> Conference
+![Preparations and cables](/img/cable.jpg)
+> Preparations and cables
+![Stickers and buttons](/img/sticker.jpg)
+> Stickers and buttons
+![Abenteuerhallen Kalk](/img/abenteuerhallen.jpg)
+> Abenteuerhallen Kalk
+![Skating](/img/skate.jpg)
+> Skating
+
+![Hacking](/img/hacking.jpg)
+> Hacking
+![Tech](/img/tech.jpg)
+> Tech
+![More tech](/img/tech-stuff.jpg)
+> More tech
+![Funky Monkey](/img/funky-monkey.jpg)
+> Funky Monkey
+![Barista mobile](/img/coffee.jpg)
+> Barista mobile
+![Hanging out at the bar](/img/at-the-bar.jpg)
+> Hanging out at the bar
+
+![Grap a coffee and take a look at InVision's job postings](/img/coffee-invision.jpg)
+> Grap a coffee and take a look at InVision's job postings
+![Sponsors](/img/sponsors.jpg)
+> Sponsors
+![Sponsor presentation](/img/sponsors-table.jpg)
+> Sponsor presentation
+
+
+Big thanks to the photographers:
+
+* Philipp Antar, [Flickr](https://www.flickr.com/photos/p886/sets/72157634815067879)
+* Sam Figueroa, [Flickr](https://www.flickr.com/photos/noddleholz/sets/72157634866045576)
+* and everyone we forgot to mention (sorry!) [some more pictures](http://eventifier.com/event/rcg13/photos)
+
+All rights are reserved and released under the creative commons license.
