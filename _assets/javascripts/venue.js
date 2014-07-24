@@ -23,7 +23,7 @@ L.control.zoom({position: 'bottomleft'}).addTo(map);
 L.marker([50.9352007, 7.00926661],
   { bounceOnAdd: true, bounceOnAddOptions: {duration: 1000, height: 200}}
 ).addTo(map)
-.bindPopup('<b>Railscamp Germany 2014</b> <br> <span>July 27/28, 2013</span> <br> Abenteuerhallen Kalk, Cologne');
+.bindPopup('<b>RailsCamp Germany 2014</b> <br> <span>September 26 - 28, 2014</span> <br> Abenteuerhallen Kalk, Cologne');
 
 if (isMobile()) {
   map.dragging.disable();
