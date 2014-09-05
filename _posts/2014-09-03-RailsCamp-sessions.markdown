@@ -11,6 +11,8 @@ categories: news
 RailsCamp is what you make it - so make it!
 Everyone's contribution is the core of a [barcamp](http://en.wikipedia.org/wiki/BarCamp). Whether you have a talk about an interesting tech issue, offer a session for Erlang beginners, or discuss the pros and cons of indoor and outdoor climbing.
 
+<img src="/img/climbing.jpg" alt="Climbing" style="width: 200px;" />
+
 Climbing? But that doesn't have to do anything with coding, computers or technical stuff.
 Well, that's right - but it doesn't matter. Because a RailsCamp is everything (really everything!) what you like! So, feel free to do what ever you want to do at RailsCamp Germany. (Of course, we don't have to tell you about our [Code of Conduct](http://2014.railscamp.de/coc/), do we? ; ) 
 Develop an idea, post it in our [session tool](http://2014.railscamp.de/contribute/session-planning.html), and enjoy a great time with friendly RailsCampers!
@@ -24,6 +26,9 @@ We have already collected some great sessions:
 * How to take sketchnotes on tech issues, 
 * CoreOS Introduction. 
 
+  
+<img src="/img/Felt-Ruby.jpg" alt="Felt Ruby" style="width: 300px;" />
+
 Get creative and sew a lovely felt Ruby (because we love Ruby!) and do some screen printing to get your awesome handmade RailsCamp shirt!
 
 Need to move and get active? Join the session "Climbing for Beginners".
@@ -31,6 +36,9 @@ Need to move and get active? Join the session "Climbing for Beginners".
 For the little ones we have a [CoderDojo](https://zen.coderdojo.com/dojo/385): Learn to code your own homepage and have fun with robots! 
 
 And for the hungry ones: Get your (vegan) burger! It's a special offer on Friday. [Bunte Burger](http://www.bunteburger.de/) from Cologne will prepare some delicious hamburgers. Please make your reservation via the [session tool](http://2014.railscamp.de/contribute/session-planning.html)! 
+
+<img src="/img/BunteBurger-Truck.png" alt="BunteBurger-Truck" style="width: 300px;" />
+Copyright: [Bunte Burger](http://www.bunteburger.de/)
 
 Are you missing a session? Then it's your chance to offer it and be a speaker at RailsCamp Germany 2014. We love every kind of contribution, so ask yourself: What do I know quite well, what can I teach others, what would be nice to share with the RailsCampers? 
 
