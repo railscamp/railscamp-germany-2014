@@ -22,9 +22,9 @@ To manage all this InVision has a big family. The InVision group includes the br
 * [The Call Center School](http://www.thecallcenterschool.com), a cloud learning supply for call-center pros, and
 * InVision WFM, a software solution for workforce management.  
 
-InVisions's developer teams are nice and agile people with much creative freedom. The developers keep themselves busy with object-oriented software development for utilizable   cloud products. They use Linux, Ruby, Rails, HTML5, CSS3, JavaScript, and SQL resp. PostgreSQL and have a focus on web applications and open source.
+InVisions's developer teams are nice and agile people with much creative freedom. The developers keep themselves busy with object-oriented software development for utilizable cloud products. They use modern technologies like Linux, Ruby, Rails, HTML5, CSS3, JavaScript, and SQL resp. PostgreSQL and have a focus on web applications and open source.
 
-Recently, inVision converted from a traditional software company into a straight cloud provider. They turned everything upside down - from the development department up to all company divisions. Sounds exciting? You want to know more? Lucky you, InVision will have a talk at RailsCamp about all these changes. Look out for the session [“Org Hacking for Fun and Profit”](http://2014.railscamp.de/contribute/session-planning.html).
+Recently, InVision converted from a traditional software company into a straight cloud provider. They turned everything upside down - from the development department up to all company divisions. Sounds exciting? You want to know more? Lucky you, InVision will have a talk at RailsCamp about all these changes. Look out for the session [“Org Hacking for Fun and Profit”](http://2014.railscamp.de/contribute/session-planning.html).
 
 It seems that InVision never stops. The InVision folks always move on in search for ambitious problems to solve, happy customers, and the possibility to experiment and to constantly refine their works. They have a sustainable focus on quality, and they demand highest professionalism.  
 Not to forget: They love what they do, and have fun doing it!
