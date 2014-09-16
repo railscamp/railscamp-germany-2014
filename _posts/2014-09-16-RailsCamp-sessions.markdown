@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "RailsCamp sessions so far"
-date:   2014-09-03 12:00:00
+title:  "***UPDATE*** RailsCamp sessions so far"
+date:   2014-09-16 13:45:00
 categories: news
 ---
 
@@ -18,24 +18,28 @@ Well, that's right - but it doesn't matter. Because a RailsCamp is everything (r
 Develop an idea, post it in our [session tool](http://2014.railscamp.de/contribute/session-planning.html), and enjoy a great time with friendly RailsCampers!
 
 We have already collected some great sessions:
-* Building your first API, 
-* an introduction to Docker, 
-* Design Thinking and Innovation, 
-* Build your first command-line-application, 
-* arduino-sensor-cloud-gondola (workshop), 
-* How to take sketchnotes on tech issues, 
-* CoreOS Introduction. 
+* [Building your first API](https://openspacer.org/13-railscamp-germany-2014/session/96-build-your-first-command-line-application/), 
+* [an introduction to Docker](https://openspacer.org/13-railscamp-germany-2014/session/112-docker-introduction/),
+* ["A summer full of code" (talk)](https://openspacer.org/13-railscamp-germany-2014/session/108-a-summer-full-of-code/),
+* [Design Thinking and Innovation](https://openspacer.org/13-railscamp-germany-2014/session/98-design-thinking-and-innovation/), 
+* [Build your first command-line-application](https://openspacer.org/13-railscamp-germany-2014/session/114-building-your-first-api/), 
+* [Zeitreihendaten mit InfluxDB / Time Series Data with InfluxDB](https://openspacer.org/13-railscamp-germany-2014/session/116-zeitreihendaten-mit-influxdb-time-series-data-with-influxdb/),
+* [arduino-sensor-cloud-gondola (workshop)](https://openspacer.org/13-railscamp-germany-2014/session/95-workshop-arduino-sensor-cloud-gondola/), 
+* [How to take sketchnotes on tech issues](https://openspacer.org/13-railscamp-germany-2014/session/93-how-to-take-sketchnotes-on-tech-issues/), 
+* [CoreOS Introduction](https://openspacer.org/13-railscamp-germany-2014/session/111-coreos-introduction/),
+* [Org Hacking for Fun and Profit](https://openspacer.org/13-railscamp-germany-2014/session/133-org-hacking-for-fun-and-profit/),
+* [Railcamp 2014 Feedback](https://openspacer.org/13-railscamp-germany-2014/session/92-railcamp-2014-feedback/).
 
   
 <img src="/img/Felt-Ruby.jpg" alt="Felt Ruby" style="width: 300px;" />
 
-Get creative and sew a lovely felt Ruby (because we love Ruby!) and do some screen printing to get your awesome handmade RailsCamp shirt!
+Get creative and sew a lovely [felt Ruby](https://www.eventbrite.de/e/filz-rubies-tickets-12893574027) (because we love Ruby!) and do some [screen printing](https://openspacer.org/13-railscamp-germany-2014/session/97-get-awesome-with-your-handmade-shirt-screen-printing-session/) to get your awesome handmade RailsCamp shirt!
 
-Need to move and get active? Join the session "Climbing for Beginners".
+Need to move and get active? Join the session ["Climbing for Beginners"](https://openspacer.org/13-railscamp-germany-2014/session/103-climbing-for-beginners/).
 
-For the little ones we have a [CoderDojo](https://zen.coderdojo.com/dojo/385): Learn to code your own homepage and have fun with robots! 
+For the little ones we have a [CoderDojo](https://openspacer.org/13-railscamp-germany-2014/session/109-coderdojo-september-2014/): Learn to code your own homepage and have fun with robots! 
 
-And for the hungry ones: Get your (vegan) burger! It's a special offer on Friday. [Bunte Burger](http://www.bunteburger.de/) from Cologne will prepare some delicious hamburgers. Please make your reservation via the [session tool](http://2014.railscamp.de/contribute/session-planning.html)! 
+And for the hungry ones: Get your (vegan) burger! It's a special offer on Friday. [Bunte Burger](http://www.bunteburger.de/) from Cologne will prepare some delicious hamburgers. Please make your reservation via the [session tool](https://openspacer.org/13-railscamp-germany-2014/session/94-bunte-burger/)! 
 
 <img src="/img/BunteBurger-Truck.png" alt="BunteBurger-Truck" style="width: 300px;" />
 Copyright: [Bunte Burger](http://www.bunteburger.de/)
