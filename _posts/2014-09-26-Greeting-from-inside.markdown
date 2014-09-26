@@ -27,7 +27,7 @@ It's no surprise that a lot of the discussions that happened during the last
 years RailsCamp rendition influenced this years work of the Ruby Berlin e.V.
 While some of them haven't seen the light of day, others were implemented, for
 example a clarification in the statutes that Ruby Berlin e.V. supports projects
-all over Europe. We are proud to provide our services the team again. We are
+all over Europe. We are proud to provide our services to the team again. We are
 very interested to see what comes out this year.
 
 I'd like to take the chance to thank everyone actively involved in
