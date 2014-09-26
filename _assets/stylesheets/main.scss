@@ -22,6 +22,7 @@ body > header {
 
   #logo img {
     height: 48px;
+    position: absolute;
   }
 }
 
@@ -32,7 +33,7 @@ body > header {
     #logo a {
       display: inline-block;
       height: 32px + $padding;
-      padding: $padding/2 $padding*2;
+      padding: 0 $padding*2 $padding/2 $padding*2;
     }
 
     #logo img {
