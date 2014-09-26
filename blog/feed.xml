@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RailsCamp Germany 2014</title>
+    <description>Updates and announcements for RailsCamp Germany 2014</description>
+    <link>http://2014.railscamp.de/blog</link>
+    <atom:link href="http://2014.railscamp.de/blog/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Greeting from inside</title>
+      <description>&lt;h1 id=&quot;some_personal_words_on_railscamp&quot;&gt;Some personal words on RailsCamp&lt;/h1&gt;
+
+&lt;p&gt;RailsCamp Germany 2014 is finally happening. As I cannot attend this year, I’d like to say a few words.&lt;/p&gt;
+
+&lt;p&gt;The RailsCamp Germany has always been an important cornerstone of the Ruby community and last years “revival” was one of the best events I’ve ever been to. I loved that it took the idea of an event centered about community involvement to a maximum and provides a very rememberable space to practice it.&lt;/p&gt;
+
+&lt;p&gt;The german Ruby community is incredibly creative when it comes to creating special events. It has understood that we meet because of technology, but that community goes beyond this. There is a need for meetings that provide something else than talks separated by short breaks. Spaces for creating and free time together is very important. Traditionally, those spaces are just local, but events like RailsCamp expand the reach.&lt;/p&gt;
+
+&lt;p&gt;It’s no surprise that a lot of the discussions that happened during the last years RailsCamp rendition influenced this years work of the Ruby Berlin e.V. While some of them haven’t seen the light of day, others were implemented, for example a clarification in the statutes that Ruby Berlin e.V. supports projects all over Europe. We are proud to provide our services to the team again. We are very interested to see what comes out this year.&lt;/p&gt;
+
+&lt;p&gt;I’d like to take the chance to thank everyone actively involved in both the german and the international Ruby community for their hard work, usually for free and on their spare time. A lot of good work comes out of it. If you see someone involved in any of those projects at the camp, please consider showing them your gratitude in some way.&lt;/p&gt;
+
+&lt;p&gt;And finally, I’d like to thank everyone who attends these events and supports them! Have a lot of fun at RailsCamp and don’t break a leg in the halfpipe!&lt;/p&gt;
+
+&lt;p&gt;- &lt;em&gt;Florian Gilcher&lt;/em&gt;&lt;br /&gt;&lt;a href=&quot;http://rubyberlin.org&quot;&gt;Vorstand Ruby Berlin e.V.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://asquera.de&quot;&gt;CEO Asquera GmbH&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Sep 2014 15:37:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/09/26/Greeting-from-inside.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/09/26/Greeting-from-inside.html</guid>
+    </item>
+    
+    <item>
+      <title>We love our sponsors! (Part 4)</title>
+      <description>&lt;p&gt;&lt;strong&gt;We love our sponsors!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lieutenant Bitcrowd explains: Why we code - aye, aye!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s absolutely important for RailsCamp to have some cool sponsors so we can provide a nice weekend with drinks, food, technical equipment, and a working internet connection.&lt;/p&gt;
+
+&lt;p&gt;Our four Lieutenant Sponsors do a good job and are great supporters for RailsCamp Germany. Therefore, we’d like to introduce them to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lieutenant Bitcrowd explains: Why we code - aye, aye!&lt;/strong&gt;&lt;br /&gt;&lt;img alt=&#39;Bitcrowd&#39; src=&#39;/img/bitcrowd.png&#39; style=&#39;width: 200px;&#39; /&gt;&lt;br /&gt;What is so appealing about typing colored text into some editor window?&lt;/p&gt;
+
+&lt;p&gt;Let’s try metaphors.&lt;/p&gt;
+
+&lt;p&gt;Imaginge a Sherlock Holmes story. There is a spy in scotland yard, and and misterious murders happen all the time. There is a public outrage, and only you can save the city from chaos. But suddenly, there is even some tainted evidence that points to our noble hero. But he sets up a trap and - in the last second as well as amazingly soon - finds the culprit. The public loves you, Scotland Yard envies you, and you are really satisfied to explain to Dr. Watson how you found the villain so fast.&lt;/p&gt;
+
+&lt;p&gt;If you are a programmer, this happens to you very often: You are Sherlock, the bug is the villain and Dr. Watson is your pair programming partner. And Scotland Yard is … Java? .net? C-oh-so-very-Sharp?&lt;/p&gt;
+
+&lt;p&gt;Or look at Indiana Jones, how he deciphers ancient artefacts only few can even recognise. You dig around in scripts that were written ages ago. Climbing old ruins, never knowing if the next bridge will hold your weight, you suddenly discover the magic spell to bring the whole temple to live again. Proving not only that he was right in the first time, but also really stupid, because now the walls close upon you. Only with your famous whip you manage to escape, holding the magic key in your hands, bringing down the dark empire nicely.&lt;/p&gt;
+
+&lt;p&gt;This, again, is you, on legacy code with the mission to retrieve the important bit of business logic that proved its value.&lt;/p&gt;
+
+&lt;p&gt;As a programmer, you are Dominick Cobb in Inception, creating metaprogrammed code worlds where the smallest mistake makes skyscrapers collapse or Danny Ocean planning to capture the data from its safe when you plan data migrations.&lt;/p&gt;
+
+&lt;p&gt;What is more, you have the imagination to see the colored code as a representation of all those stories, because if you had not this power of imagination, you would not be able to do your job well. And you are not alone:&lt;/p&gt;
+
+&lt;p&gt;Despite the image of some strange but genius looner in some rusted cellar, your (work) live depends on team work. You pair with people, sitting next to someone and discussing a problem. See how someone else tackles the problem from a different angle. A ping pong of ideas that leads to a solution you never thought of when trying on your own. You share and discuss ideas within the team. Together, you devise schemes that are worthy of any Hollywood heist-movie, and you are Robert Redford, putting them to action with the flick of your return key.&lt;/p&gt;
+
+&lt;p&gt;Coding makes you feel a lot of things: Sometimes, you feel really smart, but often you feel incredibly stupid. But when you do, you know you’ve just learnt something. And you learn a lot.&lt;/p&gt;
+
+&lt;p&gt;But we don’t just love coding, because of coding itself. There’s more: Being professional programmers allows us to work in a company that has a budget for Nerf guns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nerfguns.jpg&quot; alt=&quot;Nerfguns&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If we’re asked to come to the office in a suit, it’s a superhero morphsuite for a photo shoot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/morphsuites.jpg&quot; alt=&quot;Bodo and Rin in morphsuites&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Meeting people, learning new things, doing some networking?&lt;/p&gt;
+
+&lt;p&gt;We don’t need to go to a fancy conference and fall asleep on uncomfortable chairs during dry talks. Our events feature skate halls, animated GIFs, live performances and, sometimes, Kölsch.&lt;/p&gt;
+
+&lt;p&gt;P.s.: By the way, you don’t have to wear any suit to work at &lt;a href=&quot;http://www.bitcrowd.net/&quot;&gt;bitcrowd&lt;/a&gt;. Promised!&lt;/p&gt;</description>
+      <pubDate>Sun, 21 Sep 2014 20:30:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/09/21/Our-sponsors-bitcrowd.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/09/21/Our-sponsors-bitcrowd.html</guid>
+    </item>
+    
+    <item>
+      <title>We love our sponsors! (Part 3)</title>
+      <description>&lt;p&gt;&lt;strong&gt;We love our sponsors!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Part 3: Lieutenant Zweitag gets on board.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s absolutely important for RailsCamp to have some cool sponsors so we can provide a nice weekend with drinks, food, technical equipment, and a working internet connection.&lt;/p&gt;
+
+&lt;p&gt;Our four Lieutenant Sponsors do a good job and are great supporters for RailsCamp Germany. Therefore, we’d like to introduce them to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lieutenant Zweitag gets on board.&lt;/strong&gt;&lt;br /&gt;&lt;img alt=&#39;Zweitag&#39; src=&#39;/img/zweitag.png&#39; style=&#39;width: 200px;&#39; /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.zweitag.de&quot;&gt;Zweitag&lt;/a&gt; is a company for technology consulting and individual software development. Since 2008, the Zweitag folks have their base camp in lovely Münster, and together with their customers they fight complex technological challenges. Zweitag has an eye for sustainable values, and helps customers to stay successful in a rapidly changing world. The Zweitag team uses modern tools, lean processes, and personal engagement to develop individual solutions which are constantly improved.&lt;/p&gt;
+
+&lt;p&gt;An open business culture is an important aspect of Zweitag’s philosophy of working. They consider respect and appreciation as the basis for earnest and open communication. Within the team, and between company and customers. Zweitag speaks out, questions critically, always keeping the (customer’s) aim in mind. With professionalism, commitment, and high quality. And the Zweitag staff never stops! They go on, learn new stuff - about software, processes, and business culture -, and love to share their knowledge. This is why Zweitag is active member of the digital community, supports exchange of knowledge, and hosts barcamps and meet-ups. We can confirm: A perfect partner for RailsCamp Germany!&lt;/p&gt;
+
+&lt;p&gt;Zweitag connects the world of an enterprise with the world of start-ups. Especially in the enterprise area, where complex requirements meet historical grown systems and politically formed organisation structures, it can help a lot to act again a tad more like a start up. This is when innovative solutions are needed. For instance, software solutions for established middle-class companies are allowed to be user-friendly and even look sexy! And Zweitag can provide those kind of things to the enterprise sector based on their experience from both worlds.&lt;/p&gt;
+
+&lt;p&gt;It’s going to be an interesting get-together when Zweitag meets RailsCamp Germany 2014. We are looking forward to meeting those guys to have a vivid exchange!&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Sep 2014 17:30:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/09/16/Our-sponsors-Zweitag.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/09/16/Our-sponsors-Zweitag.html</guid>
+    </item>
+    
+    <item>
+      <title>***UPDATE*** RailsCamp sessions so far</title>
+      <description>&lt;p&gt;&lt;strong&gt;RailsCamp sessions so far&lt;/strong&gt;&lt;br /&gt;&lt;em&gt;Get inspired, and find out what you would like to contribute!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;RailsCamp is what you make it - so make it! Everyone’s contribution is the core of a &lt;a href=&quot;http://en.wikipedia.org/wiki/BarCamp&quot;&gt;barcamp&lt;/a&gt;. Whether you have a talk about an interesting tech issue, offer a session for Erlang beginners, or discuss the pros and cons of indoor and outdoor climbing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Climbing&#39; src=&#39;/img/climbing.jpg&#39; style=&#39;width: 200px;&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Climbing? But that doesn’t have to do anything with coding, computers or technical stuff. Well, that’s right - but it doesn’t matter. Because a RailsCamp is everything (really everything!) what you like! So, feel free to do what ever you want to do at RailsCamp Germany. (Of course, we don’t have to tell you about our &lt;a href=&quot;http://2014.railscamp.de/coc/&quot;&gt;Code of Conduct&lt;/a&gt;, do we? ; ) Develop an idea, post it in our &lt;a href=&quot;http://2014.railscamp.de/contribute/session-planning.html&quot;&gt;session tool&lt;/a&gt;, and enjoy a great time with friendly RailsCampers!&lt;/p&gt;
+
+&lt;p&gt;We have already collected some great sessions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/96-build-your-first-command-line-application/&quot;&gt;Building your first API&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/112-docker-introduction/&quot;&gt;an introduction to Docker&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/108-a-summer-full-of-code/&quot;&gt;“A summer full of code” (talk)&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/98-design-thinking-and-innovation/&quot;&gt;Design Thinking and Innovation&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/114-building-your-first-api/&quot;&gt;Build your first command-line-application&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/116-zeitreihendaten-mit-influxdb-time-series-data-with-influxdb/&quot;&gt;Zeitreihendaten mit InfluxDB / Time Series Data with InfluxDB&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/95-workshop-arduino-sensor-cloud-gondola/&quot;&gt;arduino-sensor-cloud-gondola (workshop)&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/93-how-to-take-sketchnotes-on-tech-issues/&quot;&gt;How to take sketchnotes on tech issues&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/111-coreos-introduction/&quot;&gt;CoreOS Introduction&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/133-org-hacking-for-fun-and-profit/&quot;&gt;Org Hacking for Fun and Profit&lt;/a&gt;,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/92-railcamp-2014-feedback/&quot;&gt;Railcamp 2014 Feedback&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Felt Ruby&#39; src=&#39;/img/Felt-Ruby.jpg&#39; style=&#39;width: 300px;&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Get creative and sew a lovely &lt;a href=&quot;https://www.eventbrite.de/e/filz-rubies-tickets-12893574027&quot;&gt;felt Ruby&lt;/a&gt; (because we love Ruby!) and do some &lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/97-get-awesome-with-your-handmade-shirt-screen-printing-session/&quot;&gt;screen printing&lt;/a&gt; to get your awesome handmade RailsCamp shirt!&lt;/p&gt;
+
+&lt;p&gt;Need to move and get active? Join the session &lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/103-climbing-for-beginners/&quot;&gt;“Climbing for Beginners”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For the little ones we have a &lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/109-coderdojo-september-2014/&quot;&gt;CoderDojo&lt;/a&gt;: Learn to code your own homepage and have fun with robots!&lt;/p&gt;
+
+&lt;p&gt;And for the hungry ones: Get your (vegan) burger! It’s a special offer on Friday. &lt;a href=&quot;http://www.bunteburger.de/&quot;&gt;Bunte Burger&lt;/a&gt; from Cologne will prepare some delicious hamburgers. Please make your reservation via the &lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/94-bunte-burger/&quot;&gt;session tool&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;BunteBurger-Truck&#39; src=&#39;/img/BunteBurger-Truck.png&#39; style=&#39;width: 300px;&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Copyright: &lt;a href=&quot;http://www.bunteburger.de/&quot;&gt;Bunte Burger&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Are you missing a session? Then it’s your chance to offer it and be a speaker at RailsCamp Germany 2014. We love every kind of contribution, so ask yourself: What do I know quite well, what can I teach others, what would be nice to share with the RailsCampers?&lt;/p&gt;
+
+&lt;p&gt;So, what can you do?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Show us your coding skills,&lt;/li&gt;
+
+&lt;li&gt;show us how to do an Ollie with your skateboard,&lt;/li&gt;
+
+&lt;li&gt;have a talk about your favourite framework (besides Rails ; ) and give an introduction on how it works,&lt;/li&gt;
+
+&lt;li&gt;talk about your experiences with your Raspberry Pi or your Arduino,&lt;/li&gt;
+
+&lt;li&gt;have a discussion about the best coffee in town (and where to get it),&lt;/li&gt;
+
+&lt;li&gt;and so on : )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Still no clue what to offer? Or you are a Rails / Ruby / barcamp newbie and just curious what happens when the nerds meet? No problem! Come in, make yourself comfortable, listen to a talk, and maybe help at the reception. Or carry some chairs from one room to another. Or keep an eye on the sandwiches: Do we have enough? If not, fetch some from the fridge. And we need Mate! Lots of Mate! Please, take care, so that the Mate stream must not run dry! ; )&lt;br /&gt;You see: Every kind of help is appreciated.&lt;/p&gt;
+
+&lt;p&gt;Okay, now your really interested, aren’t you? Have a look at our &lt;a href=&quot;http://2014.railscamp.de/contribute/session-planning.html&quot;&gt;session tool&lt;/a&gt; and contribute!&lt;/p&gt;
+
+&lt;p&gt;You can also find some of the sessions on &lt;a href=&quot;http://lanyrd.com/2014/rcg14/&quot;&gt;lanyrd&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And if you like to help organizing: Get informed via &lt;a href=&quot;https://github.com/railscamp/railscamp-germany-2014/issues&quot;&gt;GitHub issues&lt;/a&gt; and join the orga team.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Sep 2014 15:45:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/09/16/RailsCamp-sessions.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/09/16/RailsCamp-sessions.html</guid>
+    </item>
+    
+    <item>
+      <title>We love our sponsors! (Part 2)</title>
+      <description>&lt;p&gt;&lt;strong&gt;We love our sponsors!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Part 2: Stand at ease, Lieutenant planio enters RailsCamp.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s absolutely important for RailsCamp to have some cool sponsors so we can provide a nice weekend with drinks, food, technical equipment, and a working internet connection.&lt;/p&gt;
+
+&lt;p&gt;Our four Lieutenant Sponsors do a good job and are great supporters for RailsCamp Germany. Therefore, we’d like to introduce them to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stand at ease, Lieutenant Planio enters RailsCamp.&lt;/strong&gt;&lt;br /&gt;&lt;img alt=&#39;Planio&#39; src=&#39;/img/planio.png&#39; style=&#39;width: 200px;&#39; /&gt;&lt;br /&gt;&lt;a href=&quot;https://plan.io/&quot;&gt;Planio&lt;/a&gt; is a collaboration and online project manangement software for more efficiency during your daily project business, and it takes care of less e-mail chaos. Combining functions for bug / ticket tracking, agile project management, wikis and knowledge management, and customer support, Planio delivers an extensive platform every developer and non-technician dreams of. You can adjust it flexibly for diverse operation purposes.&lt;/p&gt;
+
+&lt;p&gt;One more essential component are git and subversion repositories, hosted in Germany. These main features are perfectly integrated with rights management, ticket tracking, time recording, and other divisions of Planio.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the fine granular role and rights concept you can rely on the promise that only those people who are allowed to do so can see and change data. Many Planio users involve their external partners and customers in the use of the collaboration platform, successfully. Thereby, they increase transparency and efficiency while executing their projects.&lt;/p&gt;
+
+&lt;p&gt;Believe it not, but Planio runs totally within the cloud! And not to forget: You can pay monthly via subscription. No effort for installation, no asset costs, no long contract durations. The Beatles sang: All you need is love. Planio celebrates: All you need is a web browser! ; )&lt;/p&gt;
+
+&lt;p&gt;Behind this pleasant service stands Planio GmbH from Berlin, Germany. Working since 2009. All server infrastructure is controlled in computer centers in Germany. Thus, data security within the cloud and compliance of demand according to German Data Protection Act are absolutely guaranteed.&lt;/p&gt;
+
+&lt;p&gt;Planio is based on the open-source Ruby on Rails project &lt;a href=&quot;http://www.redmine.org/&quot;&gt;Redmine&lt;/a&gt;. Besides their code contributions and their commitment in the redmine community, the Planio folks are always happy to return something in line with conference sponsoring. Therefore, they are curious about being at RailsCamp Germany 2014. And we are also looking forward to having Planio at Abenteuerhallen Kalk. Great to have you on board, Lieutenant Planio!&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Sep 2014 20:45:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/09/12/Our-sponsors-Planio.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/09/12/Our-sponsors-Planio.html</guid>
+    </item>
+    
+    <item>
+      <title>We love our sponsors! (Part 1)</title>
+      <description>&lt;p&gt;&lt;strong&gt;We love our sponsors!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Part 1: Lieutenant InVision reports for duty - aye, aye!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s absolutely important for RailsCamp to have some cool sponsors so we can provide a nice weekend with drinks, food, technical equipment, and a working internet connection.&lt;/p&gt;
+
+&lt;p&gt;Our four Lieutenant Sponsors do a good job and are great supporters for RailsCamp Germany. Therefore, we’d like to introduce them to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lieutenant InVision reports for duty - aye, aye!&lt;/strong&gt;&lt;br /&gt;&lt;img alt=&#39;InVision&#39; src=&#39;/img/invision.png&#39; style=&#39;width: 200px;&#39; /&gt;&lt;br /&gt;Since 1995, &lt;a href=&quot;http://www.invision.de&quot;&gt;InVision&lt;/a&gt; develops software and helps their customers to optimize deployment, to increase productivity as well as quality, and to lower costs. Sounds great, where can I sign? ; )&lt;br /&gt;To manage all this InVision has a big family. The InVision group includes the brands&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.injixo.com&quot;&gt;injixo&lt;/a&gt;, a cloud platform for training, workforce management and sector network,&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.thecallcenterschool.com&quot;&gt;The Call Center School&lt;/a&gt;, a cloud learning supply for call-center pros, and&lt;/li&gt;
+
+&lt;li&gt;InVision WFM, a software solution for workforce management.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;InVisions’s developer teams are nice and agile people with much creative freedom. The developers keep themselves busy with object-oriented software development for utilizable cloud products. They use modern technologies like Linux, Ruby, Rails, HTML5, CSS3, JavaScript, and SQL resp. PostgreSQL and have a focus on web applications and open source.&lt;/p&gt;
+
+&lt;p&gt;Recently, InVision converted from a traditional software company into a straight cloud provider. They turned everything upside down - from the development department up to all company divisions. Sounds exciting? You want to know more? Lucky you, InVision will have a talk at RailsCamp about all these changes. Look out for the session &lt;a href=&quot;https://openspacer.org/13-railscamp-germany-2014/session/133-org-hacking-for-fun-and-profit/&quot;&gt;“Org Hacking for Fun and Profit” by Peter Bollenbeck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It seems that InVision never stops. The InVision folks always move on in search for ambitious problems to solve, happy customers, and the possibility to experiment and to constantly refine their works. They have a sustainable focus on quality, and they demand highest professionalism.&lt;br /&gt;Not to forget: They love what they do, and have fun doing it!&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Sep 2014 14:30:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/09/05/Our-sponsors-InVision.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/09/05/Our-sponsors-InVision.html</guid>
+    </item>
+    
+    <item>
+      <title>My first RailsCamp</title>
+      <description>&lt;p&gt;&lt;strong&gt;English version&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Last year was my first RailsCamp and it was an overwhelming feeling meeting the community. At first point I realized that the sessions where not as Rails specific as one could expect. I had the feeling of doing more fun-sport tracks and socializing with lot of people from different backgrounds.&lt;/p&gt;
+
+&lt;p&gt;This year I definitely won’t miss the climbing session because I’ll be giving the session. So hoping to meet you there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/climbing.jpg&quot; alt=&quot;lets climb&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also wasn’t at the freakiest session: the BMX riding with the broken teeth and bloody legs it caused. (will there be a session II ?) I don’t know if there will be the power-workout with 5km running experience at almost 100°F/38°C (which I joined) - but if, I promise it won’t be as hot as last year.&lt;/p&gt;
+
+&lt;p&gt;We had also an incredible BBQ event and as I heard this year there will be more vegetarian food!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bbq.jpg&quot; alt=&quot;where is the BBQ&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Side note: Don’t forget your last year RFID tracking card. This year we will reopen the check-ins on different places. Perhaps someone will come up with some gamification idea? Here you see the checkin on the beverage lane:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/funky-monkey2.jpg&quot; alt=&quot;graph&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to share your session ideas on the &lt;a href=&quot;http://2014.railscamp.de/contribute/session-planning.html&quot;&gt;session-planning&lt;/a&gt; site.&lt;/p&gt;
+
+&lt;p&gt;If you want to get more impressions check out the Geekstammtisch &amp;amp; Nerdkunde Podcast recorded live at the event: &lt;a href=&quot;http://lanyrd.com/2013/rcg13/scmgrx/#link-tkck&quot;&gt;podcasts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/podcast.jpg&quot; alt=&quot;podcasting&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More than 32 Tracks and two hot days full of input almost 24/7 makes it hard to tell one single highlight - feel free to spread yours with the hashtag #rcg14!&lt;/p&gt;
+
+&lt;p&gt;And if you still don’t have a Ticket - here you can get one: &lt;a href=&quot;http://2014.railscamp.de/tickets&quot;&gt;get tickets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Big thanks to the photographers: &lt;a href=&quot;http://eventifier.com/event/rcg13/photos&quot;&gt;some more pictures&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All rights are reserved and released under the creative commons license.&lt;/p&gt;</description>
+      <pubDate>Mon, 18 Aug 2014 12:00:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/08/18/my-first-rails-camp.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/08/18/my-first-rails-camp.html</guid>
+    </item>
+    
+    <item>
+      <title>Interview with Railslove (Captain Sponsor)</title>
+      <description>&lt;p&gt;&lt;strong&gt;Interview with Railslove (Captain Sponsor)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Answers by Tim Schneider&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Scroll down for english version!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Warum unterstützt Railslove das RailsCamp Germany 2014 als Captain Sponsor?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Das Railscamp war in den letzten Jahren immer eine besonders schöne Veranstaltung: Super Leute, liebevoll organisiert, eine entspannte Atmosphäre und thematisch viel weiter gefasst als der Name es vermuten lässt. Als echt kölsches Unternehmen, das auch ein bisschen Rails im Namen trägt, sind wir da bei der Neuauflage des Camps in den Abenteuerhallen natürlich gern wieder mit dabei und freuen uns sehr auf das Wochenende im September!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ihr seid 2010 und 2013 auch schon bei RailsCamps in Deutschland dabei gewesen – könnt Ihr Veränderungen feststellen, seht Ihr eine bestimmte Entwicklung, zum Beispiel von Interessen, von TeilnehmerInnen o.ä.?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Natürlich ist das Camp über die Jahre größer geworden und es finden zu unserer Freude auch immer mehr Leute dorthin, die nicht bereits professionell als Web-Entwickler unterwegs sind. Die Mischung macht’s dann spannend und so entstehen Diskussionen aus immer neuen Perspektiven um immer neue Themen. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Was war für Euch ein Höhepunkt, ein besonderer Moment beim letzten RailsCamp?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Das Camp in den Abenteuerhallen bot einiges an Höhepunkten: BMX-Action und Basketball-Matches zwischen den Sessions, Live-Podcasting im Hof, das lecker BBQ am Abend, da kommt man direkt wieder ins schwärmen… :)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Was wünscht Ihr Euch für das diesjährige RailsCamp, was erwartet Ihr?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Das schöne am Railscamp-Gedanken ist ja, dass man im Vorfeld nicht weiß, was man kriegt. Das Camp sind die Leute vor Ort. Aber, was kann da schon schiefgehen, wenn sich eine Reihe guter Leute dazu verabredet, sich in den Abenteuerhallen ein schönes Wochenende zu machen? Wird sicher ein Fest.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Und was macht Ihr sonst so, wenn Ihr nicht gerade Barcamps finanziell unter die Arme greift? &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Wir entwickeln Produkte fürs Web und begleiten unsere Kunden dabei von der ersten Idee bis zum Launch und darüber hinaus.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mit Leidenschaft und Liebe und Ruby on Rails.&lt;/p&gt;
+
+&lt;p&gt;Vielen Dank, Railslove, erster Captain Sponsor des RailsCamp Germany 2014!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;English version&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Translated by Denise Schynol&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Why does Railslove support RailsCamp Germany 2014 as Captain Sponsor?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In the last few years, RailsCamp has always been a particular nice event: Great people, organised with love, a relaxed atmosphere and topically covering far more than you would expect concerning the name. As one real „kölsch“ company that also bears a bit of Rails in its name we certainly like to be part of the new edition of the camp at Abenteuerhallen Kalk, and we are very much looking forward to that weekend in September!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In 2010 and 2013, you have already joined RailsCamp Germany - can you state changes, do you see a certain development, for example of interests, participants or the like?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Of course, the camp has grown bigger over the years, and to our pleasure, more and more people find their way to RailsCamp who do not yet work as professional web developers. It’s the mixture that keeps it exciting, and thus discussions arise from always changing perspective about new subjects.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What has been one highlight, one special moment for you during the last RailsCamp?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The camp at Abenteuerhallen offered some highlights: BMX action and basketball matches in between the sessions, live podcasting in the backyard, the delicious BBQ in the evening, you directly begin to slobber over that… :)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What wishes do you have for this years RailsCamp, what do you expect?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The nice thing about the RailsCamp idea is that you previously don’t know what you get. The Camp are the the people who join it. But what can go wrong if a bunch of good people arrange to meet each other and have a nice weekend at Abenteuerhallen? Sure, it’s going to be a celebration.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And what else are you doing when you are not supporting Barcamps?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We develop products for the web and accompany our customers from the first idea to the launch and beyond. With passion and love and Ruby on Rails.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks a lot, Railslove, first Captain Sponsor of RailsCamp Germany 2014!&lt;/p&gt;</description>
+      <pubDate>Sat, 19 Jul 2014 20:00:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/07/19/interview-with-railslove.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/07/19/interview-with-railslove.html</guid>
+    </item>
+    
+    <item>
+      <title>The Techie Awesome RailsCamp Germany 2013 Picture Show</title>
+      <description>&lt;p&gt;&lt;strong&gt;The Techie Awesome RailsCamp Germany 2013 Picture Show&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve collected some nice pictures from last year to give you an impression of how awesome it was!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/light.jpg&quot; alt=&quot;Play of colours&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Play of colours&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/kicker-coffee.jpg&quot; alt=&quot;Coffee and kicker&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Coffee and kicker&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/kicker-match.jpg&quot; alt=&quot;Kicker match&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Kicker match&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/conference.jpg&quot; alt=&quot;Conference&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Conference&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cable.jpg&quot; alt=&quot;Preparations and cables&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Preparations and cables&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sticker.jpg&quot; alt=&quot;Stickers and buttons&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Stickers and buttons&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/abenteuerhallen.jpg&quot; alt=&quot;Abenteuerhallen Kalk&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Abenteuerhallen Kalk&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/skate.jpg&quot; alt=&quot;Skating&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Skating&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/hacking.jpg&quot; alt=&quot;Hacking&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hacking&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tech.jpg&quot; alt=&quot;Tech&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tech&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tech-stuff.jpg&quot; alt=&quot;More tech&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;More tech&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/funky-monkey.jpg&quot; alt=&quot;Funky Monkey&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Funky Monkey&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/coffee.jpg&quot; alt=&quot;Barista mobile&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Barista mobile&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/at-the-bar.jpg&quot; alt=&quot;Hanging out at the bar&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hanging out at the bar&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/coffee-invision.jpg&quot; alt=&quot;Grap a coffee and take a look at InVisions job postings&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Grap a coffee and take a look at InVision’s job postings&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sponsors.jpg&quot; alt=&quot;Sponsors&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Sponsors&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sponsors-table.jpg&quot; alt=&quot;Sponsor presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Sponsor presentation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Big thanks to the photographers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Philipp Antar, &lt;a href=&quot;https://www.flickr.com/photos/p886/sets/72157634815067879&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Sam Figueroa, &lt;a href=&quot;https://www.flickr.com/photos/noddleholz/sets/72157634866045576&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;and everyone we forgot to mention (sorry!) &lt;a href=&quot;http://eventifier.com/event/rcg13/photos&quot;&gt;some more pictures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All rights are reserved and released under the creative commons license.&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Jul 2014 16:00:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/07/18/gallery.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/07/18/gallery.html</guid>
+    </item>
+    
+    <item>
+      <title>RailsCamp Germany is back, and you're all invited!</title>
+      <description>&lt;p&gt;&lt;strong&gt;RailsCamp Germany 2014 is coming!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Join up to 200 fellow Rails developers in Cologne for the 6th edition of RailsCamp Germany!&lt;/p&gt;
+
+&lt;p&gt;The crowd-organised unconference will take place Sept. 26/27/28. Meet old and new friends, learn, teach, exchange ideas and experiences, and have tons of fun. The Rails Girls will also be present at the event, so it will be a great fit for people that are new to Rails, as well.&lt;/p&gt;
+
+&lt;p&gt;The venue will be Abenteuerhallen Kalk. It’s the same awesome indoor climbing/skating place like last year, providing space for lots of techie (talks, workshops) and non-techie (climbing, skating, soccer, basketball) activities. You can even set up camp in the the neighboring skate hall, so you don’t have to leave during the whole weekend.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/venue_main-hall_1.png&quot; alt=&quot;Venue, Main Hall&quot; /&gt; &lt;img src=&quot;/img/venue_main-hall_2.png&quot; alt=&quot;Venue, Main Hall&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;RailsCamp Germany is all about networking and exchanging knowledge and ideas in the most laid-back atmosphere possible – no stress, no hardcore schedule, and space for whatever you feel like doing. And most importantly: &lt;em&gt;you&lt;/em&gt; will decide what exactly the camp will be in the end! In fact, we have only two rules:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Everybody contributes, no matter what or how small. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+
+&lt;li&gt;There are no other rules.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This event is created by you! So, start thinking about sessions you like to host or you would like to participate. We are working on providing a tool for collecting your ideas and proposals. It’s coming soon - we promise!&lt;/p&gt;
+
+&lt;p&gt;It’ll take some hands and planning to stay on top of our customary anarchy. And as a 100% non-profit community event we’ll need as many of you as possible to help get everything in place for this Unconference Extraordinaire.&lt;/p&gt;
+
+&lt;p&gt;As a decentralized organization team, we’ve set up some tools to help us collaborate remotely. If you want to get involved before the event, check out what we already have, find something you’d like to help with or add something new, and join the conversation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/railscamp/railscamp-germany-2014/issues?state=open&quot;&gt;GitHub Issues on the event repo&lt;/a&gt; are our main organization channel. We started adding some topics and tasks a week ago, but people are adding new things every day.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;irc://irc.freenode.net:7000/railcamp_de&quot;&gt;#railscamp_de on Freenode&lt;/a&gt; is our offical IRC channel. Just drop by anytime.&lt;/li&gt;
+
+&lt;li&gt;and - of course - follow us on &lt;a href=&quot;https://twitter.com/railscamp_de&quot;&gt;Twitter&lt;/a&gt;. Hashtag: #rcg14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’re also doing regular Google Hangouts every Tuesday at 6pm. &lt;!-- The URL is always shared on both IRC and Twitter. --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, long story short: fellow RailsCampers, you’re all invited to join us for the 6th incarnation of RailsCamp Germany in September in Cologne!&lt;/strong&gt; We’re open to everyone, from beginners to masters of their craft. It’ll be an epic weekend of learning new things, meeting fellow enthusiasts, and having tons of fun. Everything is allowed&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and you’re in charge of the program. We’re incredibly excited, and we hope to see you there!&lt;/p&gt;
+&lt;!-- TEXT FROM 2013:
+For session planning before and during the event, we will have a nice little
+Rails app, developed by the fine folks of [eurucamp](http://2013.eurucamp.org/).
+You&#39;ll be able to add whatever you want to start – talks, discussions,
+activities, workshops, etc. – and people can then register their interest, so we
+can decide on the room/location details on site, depending on how much space is
+required.
+
+In light of the increased costs, and that we cannot afford too much uncertainty
+on no-shows, this year we will have entry fees like last year. We&#39;ll
+have three types of tickets – students, normal, and supporters – with the normal one
+costing around 25 EUR. That&#39;s still a killer deal for a 2.5-day developer
+paradise, and that&#39;s mostly due to our awesome...
+
+Sponsors! We haven&#39;t compiled the various packages yet, but if you&#39;re running or
+working at a company which could chip in a few bucks (or many), please get in
+touch! We&#39;ll have sponsoring opportunities starting at a few hundred Euro, so
+there&#39;ll be something for every budget. And if you&#39;re on the lookout for new
+developers to hire, we have some nice extras planned for you.
+
+
+
+
+
+If you&#39;re interested, then mark your calendar, follow us &lt;a
+href=&quot;https://twitter.com/railscamp_de&quot;&gt;on Twitter&lt;/a&gt;, and track the event &lt;a
+href=&quot;http://lanyrd.com/2013/rcg13/&quot;&gt;on Lanyrd&lt;/a&gt;.
+
+Oh, and one more thing: In order to keep the books clean and pool more resources within
+the German Ruby community, we&#39;re glad to announce that the [Ruby Berlin
+e.V.](http://rubyberlin.org) will be the official host of this year&#39;s camp!
+They&#39;re an amazing bunch of committed volunteers[^foot-3], and we&#39;re very happy
+to have them on board. --&gt;&lt;!-- [^foot-3]: Seriously, [check this out](https://twitter.com/railscamp_de/status/339386679498530817) for example. --&gt;&lt;div class=&quot;footnotes&quot;&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;This can be a talk, a discussion session, asking questions, helping out with one of the many tasks on site (e.g. manning the reception stand for an hour), helping organize something upfront – whatever you like. &lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li id=&quot;fn:2&quot;&gt;
+&lt;p&gt;Except being racist, sexist, or any other kind of being mean, of course. Take a look at our &lt;a href=&quot;http://2014.railscamp.de/coc/&quot;&gt;Code of Conduct&lt;/a&gt;. –&amp;gt; &lt;a href=&quot;#fnref:2&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 30 May 2014 17:00:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/05/30/join-us-for-another-epic-railscamp-germany.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/05/30/join-us-for-another-epic-railscamp-germany.html</guid>
+    </item>
+    
+  </channel>
+</rss>
