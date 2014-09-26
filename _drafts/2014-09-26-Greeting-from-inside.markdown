@@ -19,12 +19,12 @@ rememberable space to practice it.
 The german Ruby community is incredibly creative when it comes to creating
 special events. It has understood that we meet because of technology, but that
 community goes beyond this. There is a need for meetings that provide something
-else than talks seperated by short breaks. Spaces for creating and free time
+else than talks separated by short breaks. Spaces for creating and free time
 together is very important. Traditionally, those spaces are just local, but
 events like RailsCamp expand the reach.
 
 It's no surprise that a lot of the discussions that happened during the last
-years RailsCamp rendition influenced this years work of the Ruby Berlin e.V..
+years RailsCamp rendition influenced this years work of the Ruby Berlin e.V.
 While some of them haven't seen the light of day, others were implemented, for
 example a clarification in the statutes that Ruby Berlin e.V. supports projects
 all over Europe. We are proud to provide our services the team again. We are
